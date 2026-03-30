@@ -1,0 +1,31 @@
+Jira Cloud Installation
+1st we will check about how much it will cost of user licenses
+•	Go to below URL
+https://www.atlassian.com/software/jira/pricing
+Note : Data Center Enterprise edition cost less for license but Cloud cost between Standard and Premium
+
+Cloud we have 3 options
+•	Standard
+•	Premium
+•	Enterprise
+How to download Jira cloud
+•	Go to below URL
+https://www.atlassian.com/software/jira/pricing
+•	Now select 10 users free
+•	Now continue with google
+•	Now it will show you work email address it will be your email
+•	In Your site type the site name or get it from your manager
+•	Now click on Agree
+•	Now select software development
+•	Now select devops
+•	If you don’t want to give any questions you can skip as well
+•	Select new to jira or you can skip
+•	I am setting up jira for my software team
+•	My team is experience with agile methodologies.
+•	We spend our time working on fixing bug
+•	We have flexible schedule to finish our work
+•	Now click on next
+•	Now enter the project name
+•	Now click on create
+•	Now click on skip this now
+•	Now the jira installation is completed.
